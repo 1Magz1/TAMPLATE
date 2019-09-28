@@ -12,7 +12,7 @@
 
 Структура папок:
 1. pug
-- layout
+- layout - Основной шаблон для создания страниц
 - modules
 - pages
 2. static
